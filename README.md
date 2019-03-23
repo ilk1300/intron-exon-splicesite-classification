@@ -1,4 +1,4 @@
-Authors: Ying Xu and Emma Westin
+
 
 ### Usage 
 
